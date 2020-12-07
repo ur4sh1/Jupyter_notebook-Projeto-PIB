@@ -4,7 +4,7 @@
 
 Membros dos grupo:
 
-Marcionilio Batista
-Gentil Pereira
-Alan Lucas
+Marcionilio Batista, 
+Gentil Pereira, 
+Alan Lucas e  
 Gabriel Omena
